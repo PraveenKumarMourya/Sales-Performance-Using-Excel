@@ -1,5 +1,6 @@
 # Sales-Performance-Using-Excel
 My First Excel Dashboard Project – A Deep Dive into Sales Performance! 📊✨
+
 I’m thrilled to share my very first Excel dashboard project with the LinkedIn community! 🎉 I’ve spent a lot of time learning and applying different Excel techniques to create a dynamic dashboard that analyzes and visualizes sales performance for a team of sales executives.
 Here’s what the dashboard offers:
 🔹 Top 5 Sales Executives by Total Sales
